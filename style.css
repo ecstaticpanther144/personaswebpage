@@ -1,0 +1,19 @@
+body {
+    background-color: #fca4bc;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.flexpersonas {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+ }
+
+ .flextext{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+ }
